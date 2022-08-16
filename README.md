@@ -1,1 +1,3 @@
 # gait-patterns
+
+The objective of this work is to obtain a model capable of discriminating an individual and his gait pattern based on kinetic data. The database used for the study consists of data from markers in 42 individuals, being 24 young adults (ages 7.6 ± 4.4 years) and 18 older adults (ages 62.7 ± 8.0 years). To carry out the study, signal processing, data analysis and Machine Learning methods were used. At the end of the tests, the one that obtained the best results in its Support Vector Machine classification, with an average accuracy of 85% with an average accuracy of 85% for the markers located in the hip.
